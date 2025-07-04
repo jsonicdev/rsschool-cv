@@ -35,7 +35,7 @@
 - Communicable
 - Kind
 - Helping other people
-- Decipline
+- Discipline
 
 > Locked in :lock:
 
