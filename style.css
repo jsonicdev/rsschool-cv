@@ -1,4 +1,178 @@
 * {
-	margin: 0;
-	padding: 0;
+	scroll-behavior: smooth;
 }
+
+h3 {
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.wrapper {
+	max-width: 980px;
+	padding: 0 16px;
+	margin: 32px auto;
+	
+}
+.header__list {
+	list-style: none;
+	font-family: 'Segoe UI', sans-serif;
+	display: flex;
+}
+.header__list li {
+	padding: 10px;
+}
+.header__list li a {
+	text-decoration: none;
+	color: black;
+	font-size: 24px;
+}
+.header__list li a:hover {
+	color: orange;
+}
+
+.header__container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.title {
+	font-family: 'Segoe UI', sans-serif;
+	font-size: 48px;
+	text-decoration: none;
+	font-weight: 700;
+}
+.title:hover {
+	color: orange;
+}
+.name:hover {
+	color: orange;
+	cursor: pointer;
+}
+.spl:hover {
+	color: blue;
+	cursor: pointer;
+}
+
+.profile__container {
+	display: flex;
+	margin-top: 30px;
+	padding-bottom: 30px;
+	gap: 30px;
+	font-family: 'Segoe UI', sans-serif;
+}
+.profile__image {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.profile__name {
+	margin-top: 50px;
+	font-size: 36px;
+	font-weight: 600;
+}
+
+
+.contacts__container {
+	font-family: 'Segoe UI', sans-serif;
+}
+.contacts__list {
+	font-size: 16px;	
+}
+.contacts__list li {
+	padding: 5px;
+}
+.contacts__list a {
+	text-decoration: none;
+}
+.contacts__list a:hover{
+	color: orange;
+}
+
+
+.about__container {
+	font-family: 'Segoe UI', sans-serif;
+}
+.about__container p{
+	font-weight: 600;
+}
+
+
+.skills__container {
+	font-family: 'Segoe UI', sans-serif;
+}
+.skills__list li{
+	padding: 5px;
+}
+.skills__description {
+	font-weight: 600;
+}
+
+blockquote {
+	border-left-color: rgb(223, 226, 229);
+	border-left-style: solid;
+	border-left-width: 4px;
+	margin: 0;
+	margin-left: 20px;
+}
+blockquote p{
+	margin-left: 20px;
+	color: rgb(106, 115, 125);
+}
+
+.code__container {
+	font-family: 'Segoe UI', sans-serif;
+}
+
+pre {
+	background-color: rgb(246, 248, 250);
+	font-size: 16px;
+}
+
+.exper__container {
+	font-family: 'Segoe UI', sans-serif;
+}
+
+.edu__container {
+		font-family: 'Segoe UI', sans-serif;
+}
+.edu__container p {
+	font-weight: 600;
+}
+.lang__container {
+	font-family: 'Segoe UI', sans-serif;
+}
+.footer {
+	font-family: 'Segoe UI', sans-serif;
+	max-width: 980px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	background-color: rgb(223, 226, 229);
+	justify-content: center;
+	align-content: center;
+	padding: 15px 50px;
+	align-items: center;
+	font-size: 24px;
+}
+.footer__container1 {
+	padding-top: 20px;
+	display: flex;
+	gap: 100px;
+}	
+.footer__container2 p{
+	font-size: 16px;
+	margin: 0;
+}
+.footer a {
+	text-decoration: none;
+	color: black;
+}
+.footer a:hover {
+	color: orange;
+	
+}	
+.footer__img:hover svg path {
+	color: orange;
+	fill: orange;
+}
+
