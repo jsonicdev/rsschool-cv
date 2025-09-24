@@ -15,7 +15,7 @@ h3 {
 }
 .header__list {
 	list-style: none;
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 	display: flex;
 }
 .header__list li {
@@ -36,7 +36,7 @@ h3 {
 }
 
 .title {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 	font-size: 48px;
 	text-decoration: none;
 	font-weight: 700;
@@ -58,7 +58,7 @@ h3 {
 	margin-top: 30px;
 	padding-bottom: 30px;
 	gap: 30px;
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 }
 .profile__image {
 	width: 200px;
@@ -73,7 +73,7 @@ h3 {
 
 
 .contacts__container {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 }
 .contacts__list {
 	font-size: 16px;	
@@ -90,7 +90,7 @@ h3 {
 
 
 .about__container {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 }
 .about__container p{
 	font-weight: 600;
@@ -98,7 +98,7 @@ h3 {
 
 
 .skills__container {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 }
 .skills__list li{
 	padding: 5px;
@@ -120,7 +120,7 @@ blockquote p{
 }
 
 .code__container {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 }
 
 pre {
@@ -129,20 +129,20 @@ pre {
 }
 
 .exper__container {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 }
 
 .edu__container {
-		font-family: 'Segoe UI', sans-serif;
+		font-family: "Segoe UI", sans-serif;
 }
 .edu__container p {
 	font-weight: 600;
 }
 .lang__container {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 }
 .footer {
-	font-family: 'Segoe UI', sans-serif;
+	font-family: "Segoe UI", sans-serif;
 	max-width: 980px;
 	margin: 0 auto;
 	display: flex;

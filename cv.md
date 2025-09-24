@@ -12,7 +12,7 @@
 
 ### About me :raising_hand:
 
-**I'm student and i want to become a software engineer and create new thighs that change the world and help people live peaceful life.**
+**I"m student and i want to become a software engineer and create new thighs that change the world and help people live peaceful life.**
 
 ---
 
@@ -46,7 +46,7 @@
 ```
 async function getUser(){
 	try {
-		const res = fetch('somejson.com')
+		const res = fetch("somejson.com")
 		const data = res.JSON.Stringify()
 		console.log(data)
 	} catch (error){
